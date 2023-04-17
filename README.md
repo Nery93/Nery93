@@ -1,13 +1,14 @@
 
 ### Hi Guys 📸
 
-- 💻 Desenvolvedor Front-end em busca da sua oportunidade!
+- 💻 Data Analyst!
 
-- 📓 Existe apenas um bem, o saber, e apenas um mal, a ignorância
+- 📓 There is only one good, knowledge, and only one evil, ignorance
 
-- 🎮 Gamer nas horas livres
+- 🎮 Free time gamer
 
-- 📖 Apaixonado por leitura e novos conhecimentos
+- 📖 Obsessed about reading and new knowledge
+
 
  <div>
   <a href="https://github.com/Nery93">
