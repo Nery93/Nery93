@@ -1,52 +1,63 @@
+# Hi there! 👋 Welcome to my GitHub
 
-# Hi there! 👋
+🎯 **Software Development Intern**  
+💡 Constantly learning — one project, one challenge, and one step at a time.  
+📍 Currently focused on **JavaScript**, **React**, **Node.js**, and exploring **Go** at work.
 
+---
 
-- 💻 **Trainee Software Developer** passionate about coding and problem-solving.
-- 📚 Lifelong Learner: “There is only one good, knowledge, and only one evil, ignorance.”
-- 🎮 Gamer in my free time, always up for a challenge.
-- 📖 Bookworm: Obsessed with reading and acquiring new knowledge.
+## 🚀 About Me
 
+I’m a curious and dedicated developer in training.  
+Currently working as a software development intern where I learn through real-world backend and frontend tasks.
 
-## About Me
-I’m a Junior Software Developer with a knack for tackling challenges head-on. I believe in continuous learning and strive to expand my skill set every day. 
-When I’m not coding, you can find me immersed in a good book or exploring new technologies.
+My goal is to grow into a **full-stack developer**, combining logic, structure, and clean code — slowly but consistently.
 
-### **Skills & Technologies**
+---
 
-###  Web Development
-* **Frameworks:**
-  * [![Django: Intermediário](https://img.shields.io/badge/Django-blue.svg)](https://www.djangoproject.com/) 
-  * [![React: Avançado](https://img.shields.io/badge/JavaScript%20(React)-blue.svg)](https://reactjs.org/) 
-* **CMS:**
-  * [![WordPress: Avançado](https://img.shields.io/badge/WordPress-blueviolet.svg)](https://wordpress.org/)
-* **Page Builders:**
-  * [![Elementor: Intermediário](https://img.shields.io/badge/Elementor-green.svg)](https://elementor.com/)
+## 🧠 What I’m Learning and Practicing
 
-### ️ Databases
-* **SQL:**
-  * [![MySQL: Intermediário](https://img.shields.io/badge/MySQL-blue.svg)](https://dev.mysql.com/)
-  * [![PostgreSQL: Básico](https://img.shields.io/badge/PostgreSQL-green.svg)](https://www.postgresql.org/)
-* **NoSQL:**
-  * [![MongoDB: Intermediário](https://img.shields.io/badge/MongoDB-purple.svg)](https://www.mongodb.com/)
+- 📌 **Frontend**: HTML, CSS, JavaScript, React, Vue.js  
+- 📌 **Backend**: Node.js, PHP, Laravel, and now learning Go  
+- 📌 **RESTful APIs** and `fetch` for data consumption  
+- 📌 **Databases**: MySQL and PostgreSQL  
+- 📌 **Version Control** with Git  
+- 📌 **Programming Logic** and how to think like a developer
 
-###  APIs
-* [![Postman: Avançado](https://img.shields.io/badge/Postman-blue.svg)](https://www.postman.com/) 
+---
 
-### ☁️ Cloud Computing
-* [![Azure: Básico](https://img.shields.io/badge/Azure-teal.svg)](https://azure.microsoft.com/)
+## ⚙️ Tools & Technologies
 
-### ️ Tools
-* [![Git: Avançado](https://img.shields.io/badge/Git-yellowgreen.svg)](https://git-scm.com/) 
-* [![VS Code: Avançado](https://img.shields.io/badge/VS%20Code-blueviolet.svg)](https://code.visualstudio.com/) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 
-###  Data Analysis
-* [![Pandas: Experiência Avançada](https://img.shields.io/badge/Pandas-Experiência%20-orange.svg)](https://pandas.pydata.org/) 
-* [![Power BI: Intermediário](https://img.shields.io/badge/Power%20BI-yellow.svg)](https://powerbi.microsoft.com/)
+---
 
+## 📘 Fun Facts
 
-### Fun Facts
-- I'm a marathon runner, a gamer who is constantly learning and a coffee addict.
+- 🏃 Marathon runner and sports enthusiast  
+- 🎮 Gamer and challenge lover  
+- 📚 Passionate about self-learning  
+- ☕ Never coding without coffee  
 
+---
 
+## 🌱 Currently Learning
 
+- `Go` for backend development in my internship
+- `TypeScript`, `React` and `Node.js` for personal projects
+- `Testing`, `Clean Code`, and programming best practices
+- Building projects that connect frontend, API, and database
+
+---
+
+> “Consistent practice turns confusion into clarity.”
+
+Feel free to explore my repositories. Feedback and connections are always welcome!
