@@ -2,7 +2,7 @@
 # Hi there! 👋
 
 
-- 💻 **Junior Software Developer** passionate about coding and problem-solving.
+- 💻 **Trainee Software Developer** passionate about coding and problem-solving.
 - 📚 Lifelong Learner: “There is only one good, knowledge, and only one evil, ignorance.”
 - 🎮 Gamer in my free time, always up for a challenge.
 - 📖 Bookworm: Obsessed with reading and acquiring new knowledge.
