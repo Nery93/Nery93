@@ -1,27 +1,31 @@
 # Hi there! 👋 Welcome to my GitHub
 
-🎯 **Software Development Intern**  
+🎯 **Software Development**  
 💡 Constantly learning — one project, one challenge, and one step at a time.  
-📍 Currently focused on **JavaScript**, **React**, **Node.js**, and exploring **Go** at work.
+📍 Currently focused on **React**, **TypeScript**, and **Golang** for full-stack development.
 
 ---
 
 ## 🚀 About Me
 
-I’m a curious and dedicated developer in training.  
-Currently working as a software development intern where I learn through real-world backend and frontend tasks.
+I’m a Software Developer who enjoys understanding how systems work from end to end — driven by curiosity, collaboration, and continuous growth.
 
-My goal is to grow into a **full-stack developer**, combining logic, structure, and clean code — slowly but consistently.
+Currently, I work primarily with Golang on back-end services at Worten, maintaining APIs, integrations, and internal systems — including message processing and event-driven communication using Apache Kafka.
+
+My journey began in front-end development (HTML, CSS, JavaScript) and evolved into full-stack work using PHP/Laravel and Vue.js. Along the way, I discovered how much I enjoy building intuitive, user-focused interfaces — which led me to focus on React and TypeScript to strengthen my front-end skills.
+
+While I continue to grow my expertise in back-end systems, my goal is to advance as a full-stack developer, writing clean, maintainable code and contributing to products that balance great user experience with solid architecture.
+
+I value clear communication, a strong learning mindset, and collaborative growth — because building great software is never a solo mission.
 
 ---
 
 ## 🧠 What I’m Learning and Practicing
 
 - 📌 **Frontend**: HTML, CSS, JavaScript, React, Vue.js  
-- 📌 **Backend**: Node.js, PHP, Laravel, and now learning Go  
-- 📌 **RESTful APIs** and `fetch` for data consumption  
+- 📌 **Backend**: Node.js, PHP, Laravel, Golang 
 - 📌 **Databases**: MySQL and PostgreSQL  
-- 📌 **Version Control** with Git  
+- 📌 **Cloud & Tools** AWS S3, Docker, Git   
 - 📌 **Programming Logic** and how to think like a developer
 
 ---
@@ -51,10 +55,9 @@ My goal is to grow into a **full-stack developer**, combining logic, structure, 
 
 ## 🌱 Currently Learning
 
-- `Go` for backend development in my internship
-- `TypeScript`, `React` and `Node.js` for personal projects
+- `Golang` and `Kafka` for backend development at work
+- Building `React`, `Typescript`, `React Native` and `Next.js` projects to strengthen my front-end skills
 - `Testing`, `Clean Code`, and programming best practices
-- Building projects that connect frontend, API, and database
 
 ---
 
