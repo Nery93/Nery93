@@ -1,39 +1,35 @@
 # Hi there! 👋 Welcome to my GitHub
 
-🎯 **Software Engineer**  
+🎯 **Backend Software Engineer (Golang)**  
 💡 Constantly learning — one project, one challenge, and one step at a time.  
-📍 Currently focused on **React**, **TypeScript**, and **Golang** for full-stack development.
+📍 Building event-driven systems in **Go**, and growing into **React**/**TypeScript** for full-stack work.
 
 ---
 
 ## 🚀 About Me
 
-Backend engineer building event-driven systems with Go and Kafka.
-
-I work with microservices, message processing, and REST APIs. 
-Also build side projects with React and TypeScript when I want 
-to see my code come to life in a UI.
+Backend engineer building event-driven microservices with Go and Kafka in production.
+I work with distributed systems, message processing, and REST APIs.
+I also build side projects in React and TypeScript to keep growing across the stack.
 
 ---
 
-## 🧠 What I’m Learning and Practicing
+## 🧠 What I'm Learning and Practicing
 
-- 📌 **Frontend**: React, TypeScript, Next.js, Vue.js  
-- 📌 **Backend**: Go, Kafka, PostgreSQL, Docker
-- 📌 **Databases**: PostgreSQL  
-- 📌 **Learning** Kubernetes, AWS
+- 📌 **Backend (core)**: Go, Kafka, PostgreSQL, Docker
+- 📌 **Frontend (growing)**: React, TypeScript, Next.js
+- 📌 **Learning**: Kubernetes, AWS
 
 ---
 
 ## ⚙️ Tools & Technologies
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
@@ -49,12 +45,7 @@ to see my code come to life in a UI.
 
 ## 🌱 Currently Learning
 
-- `Golang` and `Kafka` for backend development at work
-- Building `React`, `Typescript`, `React Native` and `Next.js` projects to strengthen my front-end skills
-- `Testing`, `Clean Code`, and programming best practices
-
----
-
-> “Consistent practice turns confusion into clarity.”
-
-Feel free to explore my repositories. Feedback and connections are always welcome!
+- 📌 **Frontend (growing)**: React, TypeScript, Next.js, applied in real projects
+- `Kubernetes` and `AWS` fundamentals
+- `C++` as a personal passion project around game development
+- `Testing`, `Clean Code`, and distributed systems best practices
