@@ -2,7 +2,7 @@
 
 🎯 **Software Engineer | AI-Assisted Development**  
 💡 Constantly learning — one project, one challenge, one step at a time.  
-📍 Lisbon, Portugal · [guilhermenery.dev](https://www.guilhermenery.dev)
+📍 Lisbon, Portugal · https://guilhermenery.dev
 
 ---
 
